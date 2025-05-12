@@ -37,7 +37,7 @@ Whether you're a developer, student, or enthusiast, this project helps you learn
 1. **Clone the repository** or download the ZIP:
 
 ```bash
-git clone https://github.com/your-username/smart-home-guardian.git
+git clone https://github.com/Nadercr7/home_security_system.git
 cd smart-home-guardian
 ````
 
