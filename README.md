@@ -136,7 +136,7 @@ Modify the `SecurityAgent.update()` method to introduce new behaviors for differ
 ## 👤 Author
 
 **Nader Mohamed**
-Artificial Intelligence Department, Faculty of Science, Kafr Elsheikh University
+Faculty of Artificial Intelligence, Kafr Elsheikh University
 📧 [naderelakany@gmail.com](mailto:naderelakany@gmail.com)
 
 ---
