@@ -110,13 +110,9 @@ class NewSensorType(Sensor):
 
 Modify the `SecurityAgent.update()` method to handle new event types or implement new response strategies.
 
-## License
-
-[MIT License](LICENSE)
-
 ## Author
 
-[Your Name]
+Nader Mohamed
 
 ## Acknowledgments
 
